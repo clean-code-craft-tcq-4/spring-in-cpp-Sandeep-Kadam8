@@ -8,6 +8,6 @@ namespace Statistics {
 class Stats {
 public:
     Stats();
-    double average, max, min;
+    float average, max, min;
 
 };
